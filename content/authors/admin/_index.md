@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Andrew Johnston
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Intern
+role: Future dermatology resident
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: St. Vincent's Medical Center
+  url: "https://stvincents.org"
+- name: Department of Dermatology, Yale School of Medicine
+  url: "https://medicine.yale.edu/dermatology/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +30,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MD
+    institution: Albert Einstein College of Medicine
+    year: 2020
+  - course: PhD in Biomedical Sciences
+    institution: Albert Einstein College of Medicine
+    year: 2020
+  - course: BA in Biological Sciences
+    institution: College of Arts&Sciences Cornell University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:adj38@cornell.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DocDocAJ
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=sf81EWIAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AJEinstein
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Andrew Johnston recently graduated from Albert Einstein College of Medicine's MSTP, where he studied functional genomics and epigenetic editing with CRISPR/Cas9 in the laboratory of Dr. John Greally. He is excited to be a medical intern at St. Vincent's Medical Center before heading to Yale to start a residency within the Department of Dermatology.
