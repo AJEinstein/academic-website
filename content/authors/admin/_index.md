@@ -21,12 +21,12 @@ organizations:
   url: "https://medicine.yale.edu/dermatology/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: California grown physician scientist interested in epigenetic approaches to explore and treat cutaneous pathologies.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Functional Genomics
+- Skin Biology
+- Travel s/p COVID-19 pandemic
 
 education:
   courses:
@@ -37,7 +37,7 @@ education:
     institution: Albert Einstein College of Medicine
     year: 2020
   - course: BA in Biological Sciences
-    institution: College of Arts&Sciences Cornell University
+    institution: College of Arts & Sciences Cornell University
     year: 2012
 
 # Social/Academic Networking
