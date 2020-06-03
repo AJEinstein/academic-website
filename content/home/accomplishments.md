@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Data Analysis for Life Sciences Series"
   url = "https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+1T2018/0b42cffa7c6e4c559bf74f93fb864a59/"
   certificate_url = "../../static/files/Edx_certificates.pdf"
-  date_start = ""
+  date_start = "2014-01-10"
   date_end = "2014-05-31"
   description = ""
 
