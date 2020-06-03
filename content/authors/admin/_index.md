@@ -10,8 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Intern
-role: Future dermatology resident
+role: Medical Intern
+#role: Future Dermatology Resident
 
 # Organizations/Affiliations
 organizations:
