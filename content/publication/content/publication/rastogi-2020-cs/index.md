@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*American Journal of Respiratory and Critical Care Medicine*"
-url_DOI: https://doi.org/10.1164/rccm.201906-1199oc
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1164/rccm.201906-1199oc'
 ---
