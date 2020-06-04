@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-Andrew Johnston recently graduated from Albert Einstein College of Medicine's MSTP, where he studied functional genomics and epigenetic editing with CRISPR/Cas9 in the laboratory of Dr. John Greally. He is excited to be a medical intern at St. Vincent's Medical Center before heading to Yale to start a residency within the Department of Dermatology.
+Andrew Johnston recently graduated from Albert Einstein College of Medicine's MSTP, where he studied functional genomics and epigenetic editing with CRISPR/Cas9 in the laboratory of Dr. John Greally. He is excited to be a medical intern at St. Vincent's Medical Center before heading to Yale to start residency in the Department of Dermatology.

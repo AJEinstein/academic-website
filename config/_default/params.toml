@@ -278,8 +278,8 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
-  google_tag_manager = ""
+  google_analytics = "UA-168583634-1"
+  google_tag_manager = "UA-168583634-1"
 
 ############################
 ## Content Management System
