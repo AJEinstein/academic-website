@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*BMC bioinformatics*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1186/s12859-017-1477-3'
 ---
-

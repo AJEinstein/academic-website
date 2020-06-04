@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of the American Academy of Dermatology*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1016/j.jaad.2019.09.071'
 ---
-

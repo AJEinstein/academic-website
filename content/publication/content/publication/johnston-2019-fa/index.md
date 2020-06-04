@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Communications Biology*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1038/s42003-019-0559-3'
 ---
-

@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*The Journal of allergy and clinical immunology*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1016/j.jaci.2017.04.016'
 ---
-

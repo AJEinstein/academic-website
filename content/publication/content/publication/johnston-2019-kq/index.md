@@ -7,4 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Nature communications*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1038/s41467-019-11412-5'
 ---

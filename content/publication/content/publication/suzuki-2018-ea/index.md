@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Genome Research*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1101/gr.232587.117'
 ---
-

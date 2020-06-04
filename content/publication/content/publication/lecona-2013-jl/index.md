@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*PLoS biology*"
+links:
+  - name: Journal Site
+    url: 'https://doi.org/10.1371/journal.pbio.1001737'
 ---
-
