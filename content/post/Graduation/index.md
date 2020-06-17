@@ -3,7 +3,7 @@
 
 title: "Graduation"
 subtitle: ""
-summary: ""
+summary: "I wanted to take a moment and reflect on all of the people who contributed to my successful graduation."
 authors: [Andrew Johnston]
 tags: []
 categories: []
