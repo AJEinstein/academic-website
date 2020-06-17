@@ -21,7 +21,7 @@ organizations:
   url: "https://medicine.yale.edu/dermatology/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: California grown physician scientist interested in epigenetic approaches to explore and treat cutaneous pathologies.
+bio: California-grown physician scientist interested in epigenetic approaches to explore and treat cutaneous pathologies.
 
 interests:
 - Functional Genomics
