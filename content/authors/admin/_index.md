@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  -course: Preliminary Medicine PGY-1
-  institution: St. Vincent's Medical Center
-  year: 2021
+  - course: Preliminary Medicine PGY-1
+    institution: St. Vincent's Medical Center
+    year: 2021
   - course: MD
     institution: Albert Einstein College of Medicine
     year: 2020
