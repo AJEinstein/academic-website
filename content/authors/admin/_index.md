@@ -10,13 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Medical Intern
-#role: Future Dermatology Resident
+role: PGY-3 Dermatology Resident
 
 # Organizations/Affiliations
 organizations:
-- name: St. Vincent's Medical Center
-  url: "https://stvincents.org"
 - name: Department of Dermatology, Yale School of Medicine
   url: "https://medicine.yale.edu/dermatology/"
 
@@ -30,6 +27,9 @@ interests:
 
 education:
   courses:
+  -course: Preliminary Medicine PGY-1
+  institution: St. Vincent's Medical Center
+  year: 2021
   - course: MD
     institution: Albert Einstein College of Medicine
     year: 2020
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adj38@cornell.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:andrew.d.johnstno@yale.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DocDocAJ
@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-Andrew Johnston recently graduated from Albert Einstein College of Medicine's MSTP, where he studied functional genomics and epigenetic editing with CRISPR/Cas9 in the laboratory of Dr. John Greally. He is excited to be a medical intern at St. Vincent's Medical Center before heading to Yale to start residency in the Department of Dermatology.
+Andrew Johnston is a second year dermatology 2+2 research track resident in the department of dermatology at Yale. He graduated from Albert Einstein College of Medicine's MSTP, where he studied functional genomics and epigenetic editing with CRISPR/Cas9 in the laboratory of Dr. John Greally.
