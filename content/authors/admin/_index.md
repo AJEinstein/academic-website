@@ -10,23 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: PGY-3 Dermatology Resident
+role: Clinical Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Department of Dermatology, Yale School of Medicine
   url: "https://medicine.yale.edu/dermatology/"
+- name: John Tsang Lab, Yale Center for Systems and Engineering Immunology
+  url: "https://www.tsanglab.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: California-grown physician scientist interested in epigenetic approaches to explore and treat cutaneous pathologies.
+bio: California-grown physician scientist interested in systems immunology and artificial intelligence approaches to discover new therapies for inflammatory skin disease.
 
 interests:
+- Cutaneous Curiosities
 - Functional Genomics
-- Skin Biology
+- Systems Immunology 
 - Travel s/p COVID-19 pandemic
 
 education:
   courses:
+  - course: Dermatology Residency
+    institution: Yale School of Medicine
+    year: 2024
   - course: Preliminary Medicine PGY-1
     institution: St. Vincent's Medical Center
     year: 2021
@@ -73,4 +80,4 @@ email: ""
 #- Visitors
 ---
 
-Andrew Johnston is a second year dermatology 2+2 research track resident in the department of dermatology at Yale. He graduated from Albert Einstein College of Medicine's MSTP, where he studied functional genomics and epigenetic editing with CRISPR/Cas9 in the laboratory of Dr. John Greally.
+California-grown dermatologist-scientist applying systems vaccinology and artificial intelligence approaches to discover new therapies for inflammatory skin disease.
